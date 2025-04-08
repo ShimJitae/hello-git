@@ -2,7 +2,7 @@
 def sayHello(name):
     return 'Hello, ' + name + '!'
     
-inName = 'Tom'
-lastName = 'Brown'
-print(sayHello(inName + ' ' + lastName))
+inName = 'Tom j'
+print(sayHello(inName))
+>>>>>>> f409238f050fa92acb07a7de04091139bf5356c0
 print("main 브랜치에서 새로운 커밋생성")
